@@ -1,0 +1,4 @@
+git push --set-upstream origin master
+git remote add origin https://github.com/SPoojith/placement-management-system-git-try.git
+https://SPoojith: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@github.com/SPoojith/placement-management-system-git-try.git
+C:\Users\Aparna\Downloads\placment_management_system\placment_management_system
